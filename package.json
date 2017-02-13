@@ -1,7 +1,7 @@
 {
   "name": "@esscorp/accessibility",
   "version": "0.0.3",
-  "description": "A collection of plugins to make bootstrap sites more accessible.",
+  "description": "A collection of jQuery plugins to make bootstrap sites more accessible.",
   "dependencies": {},
   "devDependencies": {
     "@esscorp/eslint": "^2.1.0",
