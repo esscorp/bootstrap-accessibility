@@ -35,9 +35,11 @@
 	$.fn.accessibleButtons = function() {
 
 		var btns = $(this).find('.btn');
-		var colored = btns.not('.btn-default');
-		colored.removeClass('btn-success btn-info btn-warning btn-danger');
-		colored.addClass('btn-default');
+		var tooLight = btns.not('.btn-default');
+		tooLight = tooLight.not('.btn-primary');
+
+		tooLight.removeClass('btn-success btn-info btn-warning btn-danger');
+		tooLight.addClass('btn-default');
 	};
 
 	$(function() {
