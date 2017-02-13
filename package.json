@@ -1,6 +1,6 @@
 {
   "name": "@esscorp/accessibility",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of plugins to make bootstrap sites more accessible.",
   "dependencies": {},
   "devDependencies": {
