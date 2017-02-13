@@ -1,0 +1,35 @@
+{
+  "name": "@esscorp/accessibility",
+  "version": "0.0.1",
+  "description": "A collection of plugins to make bootstrap sites more accessible.",
+  "dependencies": {},
+  "devDependencies": {
+    "@esscorp/eslint": "^2.1.0",
+    "eslint": "^3.15.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-sloc": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esscorp/accessibility.git"
+  },
+  "keywords": [
+    "accessibility",
+    "accessible",
+    "bootstrap",
+    "font-awesome",
+    "jQuery",
+    "$"
+  ],
+  "author": "GreenRaccoon23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esscorp/accessibility/issues"
+  },
+  "homepage": "https://github.com/esscorp/accessibility#readme"
+}
