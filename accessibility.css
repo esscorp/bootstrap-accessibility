@@ -1,0 +1,44 @@
+.h1 .small, .h1 small, .h2 .small, .h2 small,
+.h3 .small, .h3 small, .h4 .small, .h4 small,
+.h5 .small, .h5 small, .h6 .small, .h6 small,
+h1 .small, h1 small, h2 .small, h2 small,
+h3 .small, h3 small, h4 .small, h4 small,
+h5 .small, h5 small, h6 .small, h6 small {
+	color: #767676;
+}
+
+.text-muted {
+	color: #767676;
+}
+
+.breadcrumb li a {
+	color: #23527c;
+}
+
+.breadcrumb .active {
+	color: #707070;
+}
+
+.nav-pills .badge {
+	background-color: #767676;
+}
+
+.nav-pills li.wizard-tab a {
+	color: #767676;
+}
+
+.nav-pills li.active a {
+	color: #000;
+}
+
+.label-default {
+	background-color: #767676;
+}
+
+.label-success, .label-info, .label-warning, .label-danger {
+	color: #000;
+}
+
+.panel-heading .text-muted, .panel-footer .text-muted {
+	color: #707070;
+}
