@@ -42,3 +42,8 @@ h5 .small, h5 small, h6 .small, h6 small {
 .panel-heading .text-muted, .panel-footer .text-muted {
 	color: #707070;
 }
+
+.table-hover tr:hover a:not(.btn),
+tr.active a:not(.btn) {
+	color: #23527c;
+}
